@@ -1,0 +1,10 @@
+DEPEND="
+ncurses-5
+neon-0.29
+expat-2
+zlib-1
+krb5-1
+keyutils-1
+openssl-1.1
+e2fsprogs-1
+"

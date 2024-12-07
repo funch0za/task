@@ -1,0 +1,6 @@
+DEPEND="
+libX11-1.6
+xorgproto-2019.2
+tcl-8.6
+tk-8.6
+"

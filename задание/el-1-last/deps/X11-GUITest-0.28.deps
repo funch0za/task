@@ -1,0 +1,8 @@
+DEPEND="
+perl-5.30.3
+libX11-1.5
+libXi-1.6
+libXt-1.1
+libXtst-1.2
+xorgproto-2019.2
+"

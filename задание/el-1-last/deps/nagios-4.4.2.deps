@@ -1,0 +1,13 @@
+DEPEND="
+expat-2.1
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libXpm-3.5
+libgd-gd-2.1
+libjpeg-turbo-1.4
+libpng-1.2
+libtool-2.4
+libxcb-1.9
+zlib-1.2
+"

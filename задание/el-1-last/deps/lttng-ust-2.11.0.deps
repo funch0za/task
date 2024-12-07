@@ -1,0 +1,4 @@
+DEPEND="
+userspace-rcu-0.8
+numactl-2.0
+"

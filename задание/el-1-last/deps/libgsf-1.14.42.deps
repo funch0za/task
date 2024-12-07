@@ -1,0 +1,15 @@
+DEPEND="
+bzip2-1.0
+gdk-pixbuf-2.24
+pcre2-10.40
+libjpeg-turbo-2.0.6
+tiff-4.2.0
+glib-2.44
+libffi-3.2
+libpng-1.2
+libxml2-2.9
+shared-mime-info-1.5
+xz-5.0
+zlib-1.2
+util-linux-2.21
+"

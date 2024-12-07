@@ -1,0 +1,6 @@
+DEPEND="
+glibc-2.29
+gmp-6.1
+mpfr-4.0
+openssl-1.1
+"

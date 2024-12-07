@@ -1,0 +1,9 @@
+DEPEND="
+lcms2-2
+tiff-3
+zlib-1.2
+xz-5.2.4
+zstd-1.4.4
+libpng-1.6
+libjpeg-turbo-1.5
+"

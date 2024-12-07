@@ -1,0 +1,5 @@
+DEPEND="
+apt-2.2
+perl-5.30.3
+zlib-1.2
+"

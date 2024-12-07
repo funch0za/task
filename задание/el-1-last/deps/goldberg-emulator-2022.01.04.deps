@@ -1,0 +1,4 @@
+DEPEND="
+protobuf-3.12.3
+zlib-1.2.8
+"

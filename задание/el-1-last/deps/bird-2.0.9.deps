@@ -1,0 +1,4 @@
+DEPEND="
+readline-6.3
+ncurses-6.1
+"

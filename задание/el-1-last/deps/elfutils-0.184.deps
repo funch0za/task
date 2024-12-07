@@ -1,0 +1,6 @@
+DEPEND="
+bzip2-1.0
+flex-2.5
+xz-5.0
+zlib-1.2
+"

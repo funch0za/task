@@ -1,0 +1,13 @@
+DEPEND="
+perl-5.30.3
+fontconfig-2.9
+freetype-2.4
+libX11-1.5
+libXpm-3.5
+libgd-gd-2.1
+libjpeg-turbo-1.4
+libpng-1.2
+libvpx-1.4
+perl-5.30.3
+zlib-1.2
+"

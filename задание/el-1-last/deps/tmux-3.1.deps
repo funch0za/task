@@ -1,0 +1,4 @@
+DEPEND="
+libevent-2.0
+ncurses-6.1
+"

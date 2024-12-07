@@ -1,0 +1,4 @@
+DEPEND="
+dovecot-2.3
+openssl-1.1
+"

@@ -1,0 +1,8 @@
+DEPEND="
+librevenge-0.0.4
+boost-1.59
+zlib-1.2.8
+libpng-1.6.35
+icu-58
+cppunit-1.14
+"

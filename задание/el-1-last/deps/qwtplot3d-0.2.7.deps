@@ -1,0 +1,7 @@
+DEPEND="
+glu-9.0
+mesa-21.3.9
+libglvnd-1.3.2
+qt4-4.8
+zlib-1.2
+"

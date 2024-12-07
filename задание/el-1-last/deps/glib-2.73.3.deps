@@ -1,0 +1,7 @@
+DEPEND="
+elfutils-0.184
+libffi-3.3
+pcre2-10.40
+util-linux-2.33.2
+zlib-1.2.8
+"

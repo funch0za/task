@@ -1,0 +1,13 @@
+DEPEND="
+gpm-1.20
+libICE-1.0
+libSM-1.2
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libXt-1.1
+libxcb-1.9
+ncurses-6.1
+util-linux-2.21
+xorgproto-2019.2
+"

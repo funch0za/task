@@ -1,0 +1,5 @@
+DEPEND="
+librevenge-0.0.4
+boost-1.59
+zlib-1.2.8
+"

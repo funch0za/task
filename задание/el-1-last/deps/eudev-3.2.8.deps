@@ -1,0 +1,4 @@
+DEPEND="
+util-linux-2.33
+zlib-1.2
+"

@@ -1,0 +1,4 @@
+DEPEND="
+libwibble-0.1
+zlib-1.2
+"

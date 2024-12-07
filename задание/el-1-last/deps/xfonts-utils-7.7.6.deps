@@ -1,0 +1,12 @@
+DEPEND="
+bzip2-1.0
+brotli-1.0.9
+freetype-2.7
+libXfont-1.5
+libpng-1.2
+libfontenc-1.1
+util-macros-1.19
+uuid-1.6
+xorgproto-2019.2
+zlib-1.2
+"

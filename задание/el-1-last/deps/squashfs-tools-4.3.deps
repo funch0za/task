@@ -1,0 +1,5 @@
+DEPEND="
+zlib-1.2
+xz-5.0
+lzo-2.05
+"

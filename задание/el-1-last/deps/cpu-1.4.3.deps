@@ -1,0 +1,8 @@
+DEPEND="
+binutils-2.25
+cyrus-sasl-2.1
+elfutils-0.153
+openssl-1.1
+openldap-2.4
+zlib-1.2
+"

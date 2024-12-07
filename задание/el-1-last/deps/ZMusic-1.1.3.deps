@@ -1,0 +1,4 @@
+DEPEND="
+alsa-lib-1.0.26
+zlib-1.2.8
+"

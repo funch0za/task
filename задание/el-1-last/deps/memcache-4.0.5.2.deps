@@ -1,0 +1,5 @@
+DEPEND="
+libevent-2
+php-7.4
+zlib-1.2
+"

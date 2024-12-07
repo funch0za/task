@@ -1,0 +1,7 @@
+DEPEND="
+libX11-1.5
+libXt-1.1
+libffi-3.2
+xorgproto-2019.2
+openjdk8
+"

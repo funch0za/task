@@ -1,0 +1,4 @@
+DEPEND="
+tcl-8.6
+postgresql16
+"

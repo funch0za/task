@@ -1,0 +1,5 @@
+DEPEND="
+libgpg-error-1.26
+libgcrypt-1.8
+zlib-1.2
+"

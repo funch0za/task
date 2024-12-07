@@ -1,0 +1,3 @@
+DEPEND="
+ncurses-6.1
+"

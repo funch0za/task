@@ -1,0 +1,10 @@
+DEPEND="
+openssl-1.1.1
+zlib-1.2.8
+zstd-1.4.4
+cyrus-sasl-2.1.27
+icu-58.2
+krb5-1.16.4
+e2fsprogs-1.45.5
+keyutils-1
+"

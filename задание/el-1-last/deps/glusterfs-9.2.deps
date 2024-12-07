@@ -1,0 +1,16 @@
+DEPEND="
+xz-5.0.4
+userspace-rcu-0.8.7
+python3-3.11.3
+libaio-0.3
+attr-2.4
+fuse-2.8
+sqlite-1.0.0
+acl-2.2
+db-4.8
+ncurses-5.4
+zlib-1.2.3
+libxml2-2.9
+openssl-1.1
+util-linux-2.33
+"

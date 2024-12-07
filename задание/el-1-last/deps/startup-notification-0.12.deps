@@ -1,0 +1,10 @@
+DEPEND="
+libICE-1.0
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libpthread-stubs-0.3
+libxcb-1.9
+xcb-util-0.4
+xorgproto-2019.2
+"

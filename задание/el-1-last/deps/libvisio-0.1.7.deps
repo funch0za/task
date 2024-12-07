@@ -1,0 +1,9 @@
+DEPEND="
+librevenge-0.0.4
+libxml2-2.9.7
+icu-58
+boost-1.59
+cppunit-1.12
+zlib-1.2.8
+xz-5.0
+"

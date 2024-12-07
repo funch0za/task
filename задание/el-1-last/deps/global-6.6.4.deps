@@ -1,0 +1,4 @@
+DEPEND="
+ncurses-6.1
+python3-3.11.3
+"

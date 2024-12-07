@@ -1,0 +1,14 @@
+DEPEND="
+curl-7.70.0
+cyrus-sasl-2.1.27
+gtest-1.13.0
+libjpeg-turbo-2.1.4
+libpsl-0.21.0
+openssl-1.1.1n
+openldap-2.4.48
+sqlite-3.33.0
+tiff-4.4.0
+xz-5.2.4
+zlib-1.2.8
+zstd-1.4.4
+"

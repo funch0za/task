@@ -1,0 +1,6 @@
+DEPEND="
+expat-2.1
+bzip2-1.0
+boost-1.59
+zlib-1.2.8
+libaio-0.3"

@@ -1,0 +1,5 @@
+DEPEND="
+libjpeg-turbo-1.4
+libpng-1.2
+zlib-1.2
+"

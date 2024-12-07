@@ -1,0 +1,5 @@
+DEPEND="
+php-7.4
+pcre2-10.32
+openssl-1.1
+"

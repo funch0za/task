@@ -1,0 +1,3 @@
+DEPEND="
+sysfsutils-2.1
+"

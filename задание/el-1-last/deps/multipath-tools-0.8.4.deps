@@ -1,0 +1,9 @@
+DEPEND="
+eudev-3.2
+json-c-0.13
+libaio-0.3
+lvm2-2.02
+ncurses-6.1
+readline-6.3
+userspace-rcu-0.9
+"

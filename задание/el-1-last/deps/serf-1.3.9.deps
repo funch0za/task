@@ -1,0 +1,13 @@
+DEPEND="
+expat-2.1
+gdbm-1.9.1
+openldap-2.4.48
+apr-1.7.0
+apr-util-1.6.1
+httpd-2.4.12
+krb5-1.11
+keyutils-1
+openssl-1.1
+util-linux-2.21
+zlib-1.2
+"

@@ -1,0 +1,8 @@
+DEPEND="
+libgcrypt-1.10
+libgpg-error-1.46
+libxml2-2.9
+python3-3.11
+xz-5.0
+zlib-1.2
+"

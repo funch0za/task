@@ -1,0 +1,12 @@
+DEPEND="
+zlib-1.2.13
+openssl-1.1.1n
+util-linux-2.33.2
+eudev-3.2.8
+popt-1.16
+lvm2-2.03.02
+libgpg-error-1.46
+libgcrypt-1.10.1
+json-c-0.13.1
+libssh-0.7.7
+"

@@ -1,0 +1,4 @@
+DEPEND="
+elfutils-0.153
+zlib-1.2
+"

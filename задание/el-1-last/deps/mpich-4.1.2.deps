@@ -1,0 +1,8 @@
+DEPEND="
+libxml2-2.9
+numactl-2.0
+pciutils-3.3
+util-linux-2.21
+xz-5.0
+zlib-1.2
+"

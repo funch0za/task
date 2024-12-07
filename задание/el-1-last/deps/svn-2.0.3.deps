@@ -1,0 +1,7 @@
+DEPEND="
+apr-1.7.0
+apr-util-1.6.1
+httpd-2.4.12
+php-7.4
+subversion-1.8
+"

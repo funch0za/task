@@ -1,0 +1,4 @@
+DEPEND="
+flex-2.5
+eudev-3.2.8
+"

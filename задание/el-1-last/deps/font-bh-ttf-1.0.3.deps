@@ -1,0 +1,4 @@
+DEPEND="
+fontconfig-2.9
+util-macros-1.17
+"

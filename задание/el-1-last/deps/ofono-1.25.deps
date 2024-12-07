@@ -1,0 +1,8 @@
+DEPEND="
+glib-2.44
+pcre2-10.40
+dbus-1.6
+dbus-glib-0.100
+eudev-3.2.8
+mobile-broadband-provider-info
+"

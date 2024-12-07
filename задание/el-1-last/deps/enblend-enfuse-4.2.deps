@@ -1,0 +1,16 @@
+DEPEND="
+boost-1.59
+gperftools-2.5
+gsl-2.5
+lcms2-2.5
+libjpeg-turbo-1.5
+libpng-1.6
+libdeflate-1.19
+imath-3.1.10
+openexr-3.2.1
+tiff-3.9
+vigra-1.9
+zlib-1.2
+xz-5.2.4
+zstd-1.4.4
+"

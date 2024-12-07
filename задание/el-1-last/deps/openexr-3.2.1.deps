@@ -1,0 +1,4 @@
+DEPEND="
+imath-3.1.10
+libdeflate-1.19
+"

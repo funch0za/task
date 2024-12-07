@@ -1,0 +1,6 @@
+DEPEND="
+util-macros-1.17
+xorg-sgml-doctools-1.11
+xorgproto-2019.2
+xtrans-1.3
+"

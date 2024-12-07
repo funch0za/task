@@ -1,0 +1,5 @@
+DEPEND="
+librevenge-0.0.4
+libwpd-0.10.3
+zlib-1.2.8
+"

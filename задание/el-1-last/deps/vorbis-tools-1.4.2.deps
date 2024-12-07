@@ -1,0 +1,11 @@
+DEPEND="
+libtirpc-1.3.2
+libnsl-1.3.0
+curl-7.70.0
+libogg-1.3.5
+flac-1.4.3
+libvorbis-1.3.7
+speex-1.2rc1
+opus-1.4
+opusfile-0.12
+"

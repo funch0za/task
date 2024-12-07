@@ -1,0 +1,9 @@
+DEPEND="
+openssl-1.1.1d
+openldap-2.4.48
+icu-67.1
+curl-7.70.0
+zlib-1.2.8
+expat-2.1.0
+pcre2-10.32
+"

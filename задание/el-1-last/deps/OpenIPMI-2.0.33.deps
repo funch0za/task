@@ -1,0 +1,11 @@
+DEPEND="
+gdbm-1.9.1
+glib-2.73.3
+ncurses-6.4
+net-snmp-5.8
+openssl-1.1.1n
+pcre2-10.40
+popt-1.16
+python3-3.11.3
+readline-8.2
+"

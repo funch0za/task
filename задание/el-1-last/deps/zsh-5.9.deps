@@ -1,0 +1,6 @@
+DEPEND="
+gdbm-1.9
+libcap-2.22
+ncurses-6.1
+pcre-8.32
+"

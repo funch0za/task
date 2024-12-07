@@ -1,0 +1,7 @@
+DEPEND="
+glib-2.44
+pcre2-10.40
+libxml2-2.9
+xz-5.0
+zlib-1.2
+"

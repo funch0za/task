@@ -1,0 +1,6 @@
+DEPEND="
+leatherman-1.4
+curl-7.70
+boost-1.67
+icu-67
+"

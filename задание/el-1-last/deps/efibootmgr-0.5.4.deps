@@ -1,0 +1,5 @@
+DEPEND="
+eudev-3.2
+pciutils-3.3
+zlib-1.2
+"

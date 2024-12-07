@@ -1,0 +1,6 @@
+DEPEND="
+glib
+gtk+
+ncurses
+gdk-pixbuf
+"

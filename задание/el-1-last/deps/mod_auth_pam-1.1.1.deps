@@ -1,0 +1,7 @@
+DEPEND="
+Linux-PAM-1.1.6
+apr-1.7.0
+apr-util-1.6.1
+httpd-2.4.12.1
+libtool-2.4
+"

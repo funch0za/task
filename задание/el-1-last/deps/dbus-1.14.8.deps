@@ -1,0 +1,13 @@
+DEPEND="
+expat-2.1
+glib-2.44
+libICE-1.0
+libSM-1.2
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libxcb-1.9
+util-linux-2.21
+xorgproto-2019.2
+zlib-1.2
+"

@@ -1,0 +1,14 @@
+DEPEND="
+attr-2.4
+e2fsprogs-1.42
+krb5-1.11
+keyutils-1
+libcap-2.22
+openssl-1.1
+libxml2-2.9
+readline-6.2
+xz-5.0
+zlib-1.2
+openldap-2.4
+libgssglue-0.4
+cmocka-1.1.5"

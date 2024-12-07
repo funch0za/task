@@ -1,0 +1,10 @@
+DEPEND="
+lcc-libs
+libXau-1.0.9
+libXdmcp-1.1.2
+libxcb-1.14
+util-image-0.3.9
+util-macros-1.19.0
+xcb-util-renderutil-0.3.9
+xorgproto-2021
+"

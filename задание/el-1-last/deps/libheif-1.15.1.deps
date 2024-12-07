@@ -1,0 +1,17 @@
+DEPEND="
+glibc
+zlib-1.2
+x265-3
+aom-3
+dav1d
+libde265
+libjpeg-turbo-2
+libpng-1.2
+glib-2.72
+pcre2-10.40
+libffi-3
+util-linux-2.33
+shared-mime-info-2
+numactl-2
+SVT-HEVC-1.4
+"

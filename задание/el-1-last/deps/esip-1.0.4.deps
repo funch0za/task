@@ -1,0 +1,5 @@
+DEPEND="
+erlang-18
+p1_utils-1.0
+stun-1.0
+"

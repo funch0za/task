@@ -1,0 +1,6 @@
+DEPEND="
+e2fsprogs-1.42
+krb5-1.11
+keyutils-1
+openssl-1.1
+"

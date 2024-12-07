@@ -1,0 +1,10 @@
+DEPEND="
+krb5-1
+icu-58
+zlib-1
+lttng-ust-2.11
+userspace-rcu-0
+curl-7
+openssl-1
+e2fsprogs-1.45
+"

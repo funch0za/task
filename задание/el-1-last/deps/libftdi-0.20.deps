@@ -1,0 +1,6 @@
+DEPEND="
+boost-1.59.0
+lcc-libs
+libusb-1.0.9
+libusb-compat-0.1.4
+"

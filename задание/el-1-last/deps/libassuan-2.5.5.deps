@@ -1,0 +1,3 @@
+DEPEND="
+libgpg-error-1.24
+"

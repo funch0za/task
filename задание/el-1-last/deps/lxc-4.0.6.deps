@@ -1,0 +1,9 @@
+DEPEND="
+attr-2.4
+libcap-2.22
+libnih-1.0.3
+help2man-1.47.4
+dbus-1.12.16
+Linux-PAM
+popt-1.16
+"

@@ -1,0 +1,5 @@
+DEPEND="
+readline-8.2
+ncurses-6.4
+zlib-1.2.13
+"

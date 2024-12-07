@@ -1,0 +1,8 @@
+DEPEND="
+zlib-1.2
+openmpi-5.0.2
+ucx-1.15.0
+libevent-2.1.11
+hwloc-1.11.12
+numactl-2.0.13
+"

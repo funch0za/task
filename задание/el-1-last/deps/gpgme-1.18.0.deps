@@ -1,0 +1,4 @@
+DEPEND="
+libassuan-2.5
+libgpg-error-1.46
+"

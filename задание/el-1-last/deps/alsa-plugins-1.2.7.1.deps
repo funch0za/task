@@ -1,0 +1,6 @@
+DEPEND="
+alsa-lib-1.2.8
+libsamplerate-0.1.8
+pulseaudio-14.2
+speex-1.2
+"

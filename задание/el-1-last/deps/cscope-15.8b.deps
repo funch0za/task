@@ -1,0 +1,4 @@
+DEPEND="
+flex-2.5.37
+ncurses-6.1
+"

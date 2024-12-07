@@ -1,0 +1,6 @@
+DEPEND="
+attr-2.4
+flex-2.5
+libcap-2.22
+tinycdb-0.77
+"

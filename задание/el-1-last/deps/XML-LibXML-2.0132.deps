@@ -1,0 +1,6 @@
+DEPEND="
+libxml2-2.9
+perl-5.30.3
+zlib-1.2
+xz-5.0
+"

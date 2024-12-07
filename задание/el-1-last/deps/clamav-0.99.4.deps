@@ -1,0 +1,9 @@
+DEPEND="
+bzip2-1.0
+check-0.9
+flex-2.5
+openssl-1.1
+libtool-2.4
+ncurses-6.1
+zlib-1.2
+"

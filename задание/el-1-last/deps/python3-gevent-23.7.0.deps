@@ -1,0 +1,6 @@
+DEPEND="
+python3-3.11.3
+libev-4.3
+libuv-v1.38.0
+c-ares-1.9
+"

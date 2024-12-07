@@ -1,0 +1,6 @@
+DEPEND="
+openssl-1.1.1
+libcap-2.31
+libuv-v1.38.0
+libev-4.33
+"

@@ -1,0 +1,4 @@
+DEPEND="
+dbus-1.6
+expat-2.1
+"

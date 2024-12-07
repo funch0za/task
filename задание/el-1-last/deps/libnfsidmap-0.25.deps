@@ -1,0 +1,6 @@
+DEPEND="
+elfutils-0.153
+openssl-1.1
+openldap-2.4
+cyrus-sasl-2.1
+"

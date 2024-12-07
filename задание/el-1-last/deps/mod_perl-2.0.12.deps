@@ -1,0 +1,15 @@
+DEPEND="
+gdbm-1.9.1
+cyrus-sasl-2.1
+krb5-1.11
+keyutils-1.2
+e2fsprogs-1.42
+openldap-2.4.48
+openssl-1.1
+apr-1.7.0
+apr-util-1.6.1
+httpd-2.4.12
+perl-5.30.3
+util-linux-2.21
+expat-2.1
+"

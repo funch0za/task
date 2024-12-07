@@ -1,0 +1,5 @@
+DEPEND="
+zlib-1.2
+libpcap-1.7
+numactl-2.0
+"

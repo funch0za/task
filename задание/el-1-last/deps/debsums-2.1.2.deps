@@ -1,0 +1,6 @@
+DEPEND="
+dpkg-1.17
+perl-5.30.3
+File-FnMatch
+ucf-0.28
+"

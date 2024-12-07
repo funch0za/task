@@ -1,0 +1,4 @@
+DEPEND="
+popt-1.7
+util-linux-2.21
+"

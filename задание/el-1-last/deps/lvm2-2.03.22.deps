@@ -1,0 +1,6 @@
+DEPEND="
+ncurses-6.4
+readline-8.2
+util-linux-2.33
+libaio-0.3.110
+"

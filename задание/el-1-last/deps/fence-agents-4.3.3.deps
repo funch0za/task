@@ -1,0 +1,7 @@
+DEPEND="
+python3-3.11.3
+python3-pexpect-4.6
+python3-ptyprocess-0.6.0
+python3-pycurl-7.43
+python3-requests-2
+"

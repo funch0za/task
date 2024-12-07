@@ -1,0 +1,7 @@
+DEPEND="
+acl-2.2
+attr-2.4
+file-5.17
+util-linux-2.21
+zlib-1.2
+"

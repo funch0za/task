@@ -1,0 +1,8 @@
+DEPEND="
+DBI-1.634
+perl-5.30.3
+mysql-8
+zlib-1.2
+openssl-1.1
+zstd
+"

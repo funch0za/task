@@ -1,0 +1,5 @@
+DEPEND="
+expat-2.1.0
+libiconv-1.13.1
+zlib-1.2.8
+"

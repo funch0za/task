@@ -1,0 +1,8 @@
+DEPEND="
+Linux-PAM-1.1
+db-4.8
+e2fsprogs-1.42
+krb5-1.11
+keyutils-1.2
+openssl-1.1
+"

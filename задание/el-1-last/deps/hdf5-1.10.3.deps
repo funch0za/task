@@ -1,0 +1,4 @@
+DEPEND="
+boost-1.59.0
+zlib-1.2
+"

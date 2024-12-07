@@ -1,0 +1,4 @@
+DEPEND="
+libnl-3.2
+popt-1.7
+"

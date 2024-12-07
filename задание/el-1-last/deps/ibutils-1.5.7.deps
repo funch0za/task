@@ -1,0 +1,7 @@
+DEPEND="
+opensm-3.3
+tcl-8.6
+tk-8.6
+zlib-1.2.8
+rdma-core-50.0
+"

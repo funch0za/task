@@ -1,0 +1,11 @@
+DEPEND="
+llvm17-17.0.1
+zlib-1.2.8
+ncurses-6.1
+SPIRV-LLVM-Translator-17.0.0
+libxml2-2.9
+ncurses-5.9
+xz-5.0
+zlib-1.2
+SPIRV-Tools-2023.3.rc1
+"

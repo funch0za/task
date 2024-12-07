@@ -1,0 +1,7 @@
+DEPEND="
+e2fsprogs-1.45
+lzo-2.05
+util-linux-2.32
+zlib-1.2
+zstd-1.1
+"

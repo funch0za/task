@@ -1,0 +1,8 @@
+DEPEND="
+libxml2-2.9
+ncurses-5.9
+xz-5.0
+zlib-1.2
+binutils
+python3-3.11.3
+"

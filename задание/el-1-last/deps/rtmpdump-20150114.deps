@@ -1,0 +1,8 @@
+DEPEND="
+zlib-1.2
+gnutls-3.6
+nettle-3.5
+gmp-6.1
+libtasn1-4.10
+libunistring-0.9
+"

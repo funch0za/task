@@ -1,0 +1,6 @@
+DEPEND="
+mysql-8
+zlib-1.2
+openssl-1.1
+zstd
+"

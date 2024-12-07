@@ -1,0 +1,10 @@
+DEPEND="
+bzip2-1.0
+libpng-1.2
+zlib-1.2
+libX11-1.6
+xorgproto-2019.2
+libxcb-1.10
+libXdmcp-1.1
+libXau-1.0
+"

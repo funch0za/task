@@ -1,0 +1,13 @@
+DEPEND="
+lccrt
+zlib-1.2
+elfutils-0.184
+libbpf-1.3
+binutils-2.41
+libiberty-20170913
+libcap-2.69
+llvm13-13.0
+ncurses-6.4
+libxml2-2.9
+xz-5.2
+"

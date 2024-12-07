@@ -1,0 +1,7 @@
+DEPEND="
+libjpeg-turbo-1.4
+libpng-1.2
+pslib-0.4
+zlib-1.2
+php-7.4
+"

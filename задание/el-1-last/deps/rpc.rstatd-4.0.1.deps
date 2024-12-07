@@ -1,0 +1,4 @@
+DEPEND="
+libtirpc-1.3
+libnsl-1.3
+"

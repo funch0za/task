@@ -1,0 +1,6 @@
+DEPEND="
+perl-5.30.3
+openldap-2.4.48
+nss-3.44.3
+sqlite-3.33.0
+"

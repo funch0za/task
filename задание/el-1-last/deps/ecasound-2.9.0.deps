@@ -1,0 +1,10 @@
+DEPEND="
+alsa-lib-1.0
+audiofile-0.3
+ncurses-6.1
+readline-6.2
+lilv-0.24.0
+lv2-1.14.0
+serd-0.24.0
+sord-0.16.0
+sratom-0.6.0"

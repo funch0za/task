@@ -1,0 +1,9 @@
+DEPEND="
+libxcb-1.4
+libXau-1.0
+libXdmcp-1.1
+libpthread-stubs-0.3
+util-macros-1.17
+xcb-proto-1.11
+xorgproto-2019.2
+"

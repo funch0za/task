@@ -1,0 +1,12 @@
+DEPEND="
+fuse3-3.10.3
+nettle-3.5.1
+libtasn1-4.10
+libunistring-0.9.10
+gmp-6.2.1
+gnutls-3.6.15
+zlib-1.2.13
+xz-5.2.4
+libxml2-2.9.7
+python3-3.11.3
+"

@@ -1,0 +1,10 @@
+DEPEND="
+libxml2-2.9.7
+llvm17-17
+spirv-headers-1.5.4+rt3
+zlib-1.2.8
+ncurses-5.9
+xz-5.0
+zlib-1.2
+SPIRV-Tools-2023.3.rc1
+"

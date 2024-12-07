@@ -1,0 +1,15 @@
+DEPEND="
+attr-2.4
+e2fsprogs-1.42
+keyutils-1.2
+lcc-libs
+libcap-2.22
+libevent-2.0
+libnfsidmap-0.25
+libtirpc-1.1
+tcp-wrappers-7.6
+util-linux-2.21
+lvm2-2.02
+sqlite-3.7
+eudev-3.2.8
+"

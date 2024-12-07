@@ -1,0 +1,7 @@
+DEPEND="
+openjdk8-1.8.0
+jffi-1.3.6
+<jffi-1.3.7
+jnr-ffi-2.2.8
+<jnr-ffi-2.2.9
+"

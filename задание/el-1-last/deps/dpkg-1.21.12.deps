@@ -1,0 +1,8 @@
+DEPEND="
+bzip2-1.0
+lcc-libs
+ncurses-6.1
+xz-5.0
+zlib-1.2
+libmd-1.0.4
+"

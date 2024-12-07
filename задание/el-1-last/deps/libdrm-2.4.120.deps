@@ -1,0 +1,3 @@
+DEPEND="
+libpciaccess-0.13.2
+"

@@ -1,0 +1,17 @@
+DEPEND="
+Linux-PAM-1.1
+dbus-1.6
+dbus-glib-0.100
+glib-2.44
+pcre2-10.40
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libffi-3.2
+libpthread-stubs-0.3
+libxcb-1.9
+policykit-1-0.105
+xorgproto-2019.2
+zlib-1.2
+util-linux-2.21.2
+"

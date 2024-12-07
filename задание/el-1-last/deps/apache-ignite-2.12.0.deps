@@ -1,0 +1,5 @@
+DEPEND="
+openjdk8
+unixODBC-2.3.7
+boost-1.59.0
+"

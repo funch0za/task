@@ -1,0 +1,15 @@
+DEPEND="
+apr-1.7.0
+apr-util-1.6.1
+gdbm-1.9.1
+openldap-2.4.48
+expat-2.1
+openssl-1.1
+libxml2-2.9
+lksctp-tools-1.0
+pcre-8.32
+sqlite-3.7
+util-linux-2.21
+xz-5.0
+zlib-1.2
+"

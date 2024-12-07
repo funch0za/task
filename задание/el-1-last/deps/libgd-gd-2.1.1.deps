@@ -1,0 +1,17 @@
+DEPEND="
+bzip2-1.0
+expat-2.1
+fontconfig-2.9
+freetype-2.4
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libXpm-3.5
+libjpeg-turbo-1.4
+libpng-1.2
+libpthread-stubs-0.3
+libvpx-1.4
+libxcb-1.9
+xorgproto-2019.2
+zlib-1.2
+"

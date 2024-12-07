@@ -1,0 +1,4 @@
+DEPEND="
+libpng-1.2
+zlib-1.2
+"

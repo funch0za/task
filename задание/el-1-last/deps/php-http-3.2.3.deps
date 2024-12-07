@@ -1,0 +1,11 @@
+DEPEND="
+libidn-1.29
+pcre-8.38
+pcre2-10.32
+php-7.4
+propro-1.0
+raphf-1.1
+zlib-1.2
+curl-7.51
+openssl-1.1
+"

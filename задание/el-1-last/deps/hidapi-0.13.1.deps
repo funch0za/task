@@ -1,0 +1,4 @@
+DEPEND="
+libusb-1.0.23
+eudev-3.2
+"

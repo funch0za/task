@@ -1,0 +1,11 @@
+DEPEND="
+util-linux-2.33.2
+acl-2.2.52
+attr-2.4.46
+dbus-1.12.16
+Linux-PAM-1.1.6
+pam-krb5-4.7
+libcap-2.31
+eudev-3.2.8
+glib-2.62.4
+"

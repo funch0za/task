@@ -1,0 +1,13 @@
+DEPEND="
+gmp-6.1
+libtasn1-4.10
+libunistring-0.9
+nettle-3.5
+gnutls-3.6
+glib-2.62
+pcre2-10.40
+python3-3.11.3
+lua5.1-5.1
+zlib-1.2
+ruby-2.7
+"

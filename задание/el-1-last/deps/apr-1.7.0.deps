@@ -1,0 +1,4 @@
+DEPEND="
+util-linux-2.21
+lksctp-tools-1.0
+"

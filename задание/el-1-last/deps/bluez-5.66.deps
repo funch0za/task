@@ -1,0 +1,13 @@
+DEPEND="
+alsa-lib-1.0
+dbus-1.6
+glib-2.72
+elfutils-0.153
+eudev-3.2
+libical-0.48
+ncurses-6.1
+pcre2-10.40
+readline-6.3
+icu-67.1
+db-4.8.30
+"

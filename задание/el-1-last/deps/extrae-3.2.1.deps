@@ -1,0 +1,13 @@
+DEPEND="
+papi-5.4.3
+boost-1.59.0
+zlib-1.2.8
+libxml2-2.9.2
+binutils-2.26
+xz-5.0.4
+numactl-2.0.8
+openmpi-5.0.2
+ucx-1.15.0
+libevent-2.1.11
+hwloc-1.11.12
+"

@@ -1,0 +1,9 @@
+DEPEND="
+zlib-1.2.13
+libpng-1.6.40
+libjpeg-turbo-2.1.5
+tiff-4.4.0
+imath-3.1.10
+openexr-3.2.1
+fftw3-3.3.8
+"

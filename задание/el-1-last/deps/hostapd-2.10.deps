@@ -1,0 +1,4 @@
+DEPEND="
+libnl-3.2
+openssl-1.1
+"

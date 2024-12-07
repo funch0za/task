@@ -1,0 +1,7 @@
+DEPEND="
+kmod-26
+open-isns-0.100
+openssl-1.1
+util-linux-2.33
+zlib-1.2
+"

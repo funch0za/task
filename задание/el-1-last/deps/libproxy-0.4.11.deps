@@ -1,0 +1,11 @@
+DEPEND="
+network-manager-1
+dbus-1.6
+glib-2.44
+pcre2-10.40
+perl-5.30.3
+libffi-3.2
+qt4-4.8
+zlib-1.2
+util-linux-2.21
+"

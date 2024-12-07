@@ -1,0 +1,6 @@
+DEPEND="
+openssl-1.1
+zlib-1.2
+openldap-2.4
+icu-58.2
+"

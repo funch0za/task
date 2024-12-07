@@ -1,0 +1,15 @@
+DEPEND="
+glib-2.44
+dbus-1.6
+iptables-1.4.11
+gmp-6.1
+nettle-3.5
+zlib-1.2.8
+gnutls-3.6
+libtasn1-4.10
+libunistring-0.9
+ncurses-6.1
+readline-6.2
+pcre2-10.40
+libmnl-1.0.0
+"

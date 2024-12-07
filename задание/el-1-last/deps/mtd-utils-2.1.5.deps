@@ -1,0 +1,8 @@
+DEPEND="
+zlib-1.2.8
+uuid-1.6.2
+lzo-2.10
+zstd-1.4.4
+openssl-1.1.1n
+util-linux-2.33.2
+"

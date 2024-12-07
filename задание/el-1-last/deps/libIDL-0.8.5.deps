@@ -1,0 +1,5 @@
+DEPEND="
+flex-2.5
+glib-2.44
+pcre2-10.40
+"

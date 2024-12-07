@@ -1,0 +1,9 @@
+DEPEND="
+alsa-lib-1.2.8
+audiofile-0.3.6
+esound-0.2.41
+pulseaudio-14.2
+SDL2-2
+openal-soft-1.22.2
+sndio-1.8.1
+"

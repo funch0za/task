@@ -1,0 +1,5 @@
+DEPEND="
+glib-2
+pcre2-10.40
+libevent-1
+"

@@ -1,0 +1,9 @@
+DEPEND="
+numactl-2.0.13
+zlib-1.2.13
+libnl-3.4.0
+rdma-core-50.0
+ucx-1.15.0
+libevent-2.1.11
+hwloc-1.11.12
+"

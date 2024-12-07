@@ -1,0 +1,8 @@
+DEPEND="
+glib-2.73.3
+libffi-3.3
+pcre2-10.40
+python3-3.11.3
+util-linux-2.33.2
+zlib-1.2.8
+"

@@ -1,0 +1,4 @@
+DEPEND="
+tcl-8.6
+zlib-1.2
+"

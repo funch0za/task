@@ -1,0 +1,4 @@
+DEPEND="
+flex-2.5
+mhash-0.9.9
+"

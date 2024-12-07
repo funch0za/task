@@ -1,0 +1,4 @@
+DEPEND="
+expat-2.1
+perl-5.30.3
+"

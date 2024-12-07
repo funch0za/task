@@ -1,0 +1,14 @@
+DEPEND="
+curl-7.29
+elfutils-0.153
+expat-2.1
+glib-2.44
+pcre2-10.40
+flex-2.5
+openssl-1.1
+libxml2-2.9
+libxslt-1.1
+openldap-2.4
+xz-5.0
+zlib-1.2
+"

@@ -1,0 +1,6 @@
+DEPEND="
+glusterfs-4.1
+libaio-0.3
+libnl-3.2
+rdma-core-50.0
+"

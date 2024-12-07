@@ -1,0 +1,10 @@
+DEPEND="
+freeipmi-1.4.5
+OpenIPMI-2.0.28
+libgpg-error-1.37
+libgcrypt-1.8.3
+openssl-1.1
+libedit-20140620-3.1
+ncurses-6.1
+readline-6.3
+"

@@ -1,0 +1,4 @@
+DEPEND="
+postgresql16
+tcl-8
+"

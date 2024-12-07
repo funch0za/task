@@ -1,0 +1,5 @@
+DEPEND="
+attr-2.4
+libcap-2.22
+openssl-1.1
+"

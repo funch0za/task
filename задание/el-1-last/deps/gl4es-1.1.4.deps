@@ -1,0 +1,4 @@
+DEPEND="
+libX11-1.7.2
+xorgproto-2019.2
+"

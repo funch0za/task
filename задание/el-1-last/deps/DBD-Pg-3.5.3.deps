@@ -1,0 +1,5 @@
+DEPEND="
+DBI-1.634
+perl-5.30.3
+postgresql16
+"

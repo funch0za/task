@@ -1,0 +1,4 @@
+DEPEND="
+acl-2.2
+ncurses-6.1
+"

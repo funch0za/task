@@ -1,0 +1,4 @@
+DEPEND="
+sqlite-3.7
+zlib-1.2
+"

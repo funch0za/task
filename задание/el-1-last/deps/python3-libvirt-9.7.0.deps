@@ -1,0 +1,4 @@
+DEPEND="
+python3-3.11.3
+libvirt-7.9
+"

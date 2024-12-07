@@ -1,0 +1,5 @@
+DEPEND="
+pcre-8.38
+libjpeg-turbo-1.4
+zlib-1.2
+"

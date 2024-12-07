@@ -1,0 +1,9 @@
+DEPEND="
+flex-2.5
+glu-9.0
+openssl-1.1
+mesa-21.3.9
+libglvnd-1.3.2
+ncurses-6.1
+zlib-1.2
+"

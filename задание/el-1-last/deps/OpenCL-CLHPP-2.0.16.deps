@@ -1,0 +1,5 @@
+DEPEND="
+mesa-21.3.9
+libglvnd-1.3.2
+ocl-icd-2.2.14
+"

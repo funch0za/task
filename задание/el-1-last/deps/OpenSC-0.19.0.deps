@@ -1,0 +1,7 @@
+DEPEND="
+openssl-1.1
+ncurses-6.1
+pcsc-lite-1.8
+readline-6.2
+zlib-1.2
+"

@@ -1,0 +1,7 @@
+DEPEND="
+keyutils-1.2
+openssl-1.1.1n
+flex-2.6.4
+e2fsprogs-1.45.5
+libverto-0.3.1
+"

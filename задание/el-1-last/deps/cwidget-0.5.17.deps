@@ -1,0 +1,5 @@
+DEPEND="
+cppunit-1.12
+libsigc++-2.2
+ncurses-6.1
+"

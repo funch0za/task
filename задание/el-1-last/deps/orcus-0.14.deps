@@ -1,0 +1,8 @@
+DEPEND="
+boost-1.59
+bzip2-1.0
+ixion-0.14
+mdds-1.4
+python3-3.11.3
+zlib-1.2
+"

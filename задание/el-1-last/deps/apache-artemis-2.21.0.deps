@@ -1,0 +1,4 @@
+DEPEND="
+openjdk11
+libaio
+"

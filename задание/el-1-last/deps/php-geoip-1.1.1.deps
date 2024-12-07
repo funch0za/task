@@ -1,0 +1,4 @@
+DEPEND="
+GeoIP-1.6
+php-7.4
+"

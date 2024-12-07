@@ -1,0 +1,8 @@
+DEPEND="
+check-0.14.0
+glib-2.62.4
+pcre2-10.40
+libxml2-2.9.7
+zlib-1.2.8
+xz-5.2.4
+"

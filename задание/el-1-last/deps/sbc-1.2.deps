@@ -1,0 +1,6 @@
+DEPEND="
+flac-1.2
+libsndfile-1.0
+libogg-1.3
+libvorbis-1.3
+"

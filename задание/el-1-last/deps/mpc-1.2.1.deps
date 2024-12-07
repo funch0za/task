@@ -1,0 +1,4 @@
+DEPEND="
+gmp-6.0
+mpfr-4.0
+"

@@ -1,0 +1,4 @@
+DEPEND="
+util-macros-1.17
+xfonts-utils-7.7
+"

@@ -1,0 +1,11 @@
+DEPEND="
+acl-2.2.52
+attr-2.4.46
+bzip2-1.0
+libarchive-3.2.1
+libxml2-2.9.2
+nettle-3.5
+uuid-1.6
+xz-5.0.4
+zlib-1.2.8
+"

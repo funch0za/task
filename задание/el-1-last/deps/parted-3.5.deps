@@ -1,0 +1,5 @@
+DEPEND="
+util-linux-2.33.2
+ncurses-6.1
+readline-6.3
+"

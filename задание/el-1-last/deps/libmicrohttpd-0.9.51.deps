@@ -1,0 +1,8 @@
+DEPEND="
+gnutls-3.6
+nettle-3.5
+libgcrypt-1.8
+libgpg-error-1.26
+gmp-6.1
+zlib-1.2
+"

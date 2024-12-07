@@ -1,0 +1,5 @@
+DEPEND="
+python3-3.11.3
+python3-rich-13.7.0
+python3-hatchling-1.18.0
+"

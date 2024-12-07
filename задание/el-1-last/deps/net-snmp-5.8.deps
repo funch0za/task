@@ -1,0 +1,8 @@
+DEPEND="
+elfutils-0.153
+openssl-1.1
+pciutils-3.3
+zlib-1.2
+perl-5.30.3
+pcre-8.39
+"

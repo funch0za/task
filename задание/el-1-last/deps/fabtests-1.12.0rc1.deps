@@ -1,0 +1,5 @@
+DEPEND="
+rdma-core-50.0
+libfabric-1.12.0rc1
+libnl-3.4.0
+"

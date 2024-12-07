@@ -1,0 +1,4 @@
+DEPEND="
+aspell-0.60
+perl-5.30.3
+"

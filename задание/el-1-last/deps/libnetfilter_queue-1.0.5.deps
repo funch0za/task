@@ -1,0 +1,4 @@
+DEPEND="
+libnfnetlink-1
+libmnl-1
+"

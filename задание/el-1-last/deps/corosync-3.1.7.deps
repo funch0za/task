@@ -1,0 +1,7 @@
+DEPEND="
+libqb-2.0.6
+nss-3.44
+sqlite-3.33
+zlib-1.2
+kronosnet-1.25
+"

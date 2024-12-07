@@ -1,0 +1,5 @@
+DEPEND="
+bzip2-1.0
+elfutils-0.153
+zlib-1.2
+"

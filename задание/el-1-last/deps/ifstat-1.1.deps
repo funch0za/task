@@ -1,0 +1,4 @@
+DEPEND="
+openssl-1.1
+net-snmp-5.7.2
+"

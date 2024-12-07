@@ -1,0 +1,8 @@
+DEPEND="
+lcc-libs
+ncurses-6.4
+openssl-1.1.1n
+acl-2.2.52
+e2fsprogs-1.45.5
+libmd-1.0.4
+"

@@ -1,0 +1,4 @@
+DEPEND="
+postgresql16
+curl-7
+"

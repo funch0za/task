@@ -1,0 +1,12 @@
+DEPEND="
+acl-2.2
+attr-2.4
+e2fsprogs-1.42
+krb5-1.11
+keyutils-1
+libaio-0.3
+libcap-2.22
+python3-3.11.3
+readline-6.2
+zlib-1.2
+"

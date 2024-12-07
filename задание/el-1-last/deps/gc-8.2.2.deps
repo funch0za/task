@@ -1,0 +1,3 @@
+DEPEND="
+libatomic-ops-7.4
+"

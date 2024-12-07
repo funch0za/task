@@ -1,0 +1,12 @@
+DEPEND="
+util-macros-1.19.0
+xorg-server-1.19.5
+libdrm-2.4.96
+pixman-0.34.0
+mesa-21.3.9
+libglvnd-1.3.2
+libpciaccess-0.13.5
+eudev-3.2
+xorgproto-2019.2
+libxcvt-1.0
+"

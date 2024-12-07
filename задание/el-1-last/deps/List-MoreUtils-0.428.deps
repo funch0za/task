@@ -1,0 +1,5 @@
+DEPEND="
+perl-5.30.3
+Exporter-Tiny-1.002001
+List-MoreUtils-XS-0.428
+"

@@ -1,0 +1,4 @@
+DEPEND="
+util-macros-1.19
+xorgproto-2019.2
+"

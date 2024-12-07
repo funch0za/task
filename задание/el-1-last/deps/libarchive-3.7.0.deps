@@ -1,0 +1,12 @@
+DEPEND="
+acl-2.2.52
+attr-2.4.46
+bzip2-1.0.6
+e2fsprogs-1.43.1
+openssl-1.1
+libxml2-2.9.2
+lzo-2.05
+nettle-3.5
+xz-5.0.4
+zlib-1.2.8
+"

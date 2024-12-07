@@ -1,0 +1,4 @@
+DEPEND="
+libnl-3.2.25
+libpcap-1.9
+"

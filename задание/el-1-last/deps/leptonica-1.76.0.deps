@@ -1,0 +1,10 @@
+DEPEND="
+giflib-5.0
+libjpeg-turbo-1.4
+libpng-1.2
+libwebp-0.4
+tiff-3.9
+zlib-1.2
+xz-5.2.4
+zstd-1.4.4
+"

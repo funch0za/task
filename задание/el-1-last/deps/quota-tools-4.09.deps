@@ -1,0 +1,6 @@
+DEPEND="
+e2fsprogs-1.42
+tcp-wrappers-7.6
+libtirpc-1.3
+libnsl-1.3.0
+"

@@ -1,0 +1,5 @@
+DEPEND="
+lua5.1-5.1
+ncurses-6.1
+readline-6.3
+"

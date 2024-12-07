@@ -1,0 +1,5 @@
+DEPEND="
+fast_xml-1.1
+p1_utils-1.0
+erlang
+"

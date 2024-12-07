@@ -1,0 +1,15 @@
+DEPEND="
+ORBit2-2.14
+dbus-1.6
+dbus-glib-0.100
+flex-2.5
+glib-2.44
+pcre2-10.40
+libIDL-0.8
+libffi-3.2
+libxml2-2.9
+popt-1.7
+xz-5.0
+zlib-1.2
+util-linux-2.21
+"

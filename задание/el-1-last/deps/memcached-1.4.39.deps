@@ -1,0 +1,4 @@
+DEPEND="
+libevent-2
+zlib-1.2
+"

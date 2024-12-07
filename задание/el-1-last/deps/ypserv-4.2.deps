@@ -1,0 +1,3 @@
+DEPEND="
+gdbm-1.9
+"

@@ -1,0 +1,7 @@
+DEPEND="
+flex-2.5
+glib-2.44
+pcre2-10.40
+popt-1.7
+util-linux-2.21
+"

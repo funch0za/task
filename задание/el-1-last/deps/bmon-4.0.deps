@@ -1,0 +1,5 @@
+DEPEND="
+ncurses-6.4
+confuse-2.7
+libnl-3.4.0
+"

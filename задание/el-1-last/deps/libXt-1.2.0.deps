@@ -1,0 +1,15 @@
+DEPEND="
+glib-2.44
+pcre2-10.40
+libICE-1.0
+libSM-1.2
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libpthread-stubs-0.3
+libxcb-1.9
+util-linux-2.21
+util-macros-1.17
+xorg-sgml-doctools-1.11
+xorgproto-2019.2
+"

@@ -1,0 +1,15 @@
+DEPEND="
+glib-2
+pcre2-10.40
+libffi-3.2
+util-linux-2
+zlib-1.2
+libproxy-0.4
+gsettings-desktop-schemas-3.14
+gnutls-3.6
+gmp-6.1
+guile-2.0
+libtasn1-4.10
+libunistring-0.9
+nettle-3.5
+"

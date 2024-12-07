@@ -1,0 +1,15 @@
+DEPEND="
+e2fsprogs-1.42
+elfutils-0.153
+krb5-1.11
+keyutils-1
+lcc-libs
+openssl-1.1
+libssh2-1.5
+libxml2-2.9
+libxslt-1.1
+php-7.4
+postgresql16
+openldap-2.4
+zlib-1.2
+"

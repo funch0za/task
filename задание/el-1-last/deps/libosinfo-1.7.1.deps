@@ -1,0 +1,14 @@
+DEPEND="
+libffi-3.2
+zlib-1.2
+util-linux-2.23
+glib-2.44
+pcre2-10.40
+libxml2-2.9
+libsoup-2.44
+libxslt-1.1
+xz-5.0
+sqlite-3.30
+gobject-introspection-1.37
+libpsl-0.20.2
+"

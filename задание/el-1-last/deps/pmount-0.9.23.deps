@@ -1,0 +1,4 @@
+DEPEND="
+dbus-1.6
+util-linux-2.21
+"

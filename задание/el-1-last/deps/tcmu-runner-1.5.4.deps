@@ -1,0 +1,13 @@
+DEPEND="
+ceph-12.2
+glib-2.62
+pcre2-10.40
+glusterfs-4.1
+gperftools-2.5
+kmod-26
+libffi-3.0
+libnl-3.4
+util-linux-2.33
+uuid-1.6
+zlib-1.2
+"

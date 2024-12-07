@@ -1,0 +1,4 @@
+DEPEND="
+perl-5.10.1
+File-Next-1.18
+"

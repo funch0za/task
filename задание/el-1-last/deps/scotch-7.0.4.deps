@@ -1,0 +1,12 @@
+DEPEND="
+zlib-1.2.13
+bzip2-1.0.8
+eudev-3.2.8
+xz-5.2.4
+libpciaccess-0.13
+openmpi-5.0.2
+ucx-1.15.0
+libevent-2.1.11
+hwloc-1.11.12
+numactl-2.0.13
+"

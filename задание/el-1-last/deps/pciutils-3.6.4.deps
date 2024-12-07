@@ -1,0 +1,4 @@
+DEPEND="
+eudev-3.2
+zlib-1.2
+"

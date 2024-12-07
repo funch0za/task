@@ -1,0 +1,5 @@
+DEPEND="
+adduser-3.121
+perl-5.30.3
+wget-1.20.3
+"

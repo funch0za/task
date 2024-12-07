@@ -1,0 +1,6 @@
+DEPEND="
+Linux-PAM-1.1.6
+cracklib-2.9.1
+glibc-2.29
+zlib-1.2.8
+"

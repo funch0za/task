@@ -1,0 +1,10 @@
+DEPEND="
+glog-0.3
+protobuf-3.12
+python3-3.11.3
+pytorch-1.13.1
+python3-pybind11-2.8
+libjpeg-turbo-2.1
+libpng-1.6
+zlib-1.2.13
+"

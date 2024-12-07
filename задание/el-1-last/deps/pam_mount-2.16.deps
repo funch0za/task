@@ -1,0 +1,13 @@
+DEPEND="
+Linux-PAM-1.1
+cyrus-sasl-2.1
+elfutils-0.153
+libHX-3.12
+libxml2-2.6
+openldap-2.4
+openssl-1.1
+pcre-7.4
+util-linux-2.21
+xz-5.0
+zlib-1.2
+"

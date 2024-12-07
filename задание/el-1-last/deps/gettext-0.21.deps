@@ -1,0 +1,4 @@
+DEPEND="
+bison-2.7
+ncurses-6.1
+"

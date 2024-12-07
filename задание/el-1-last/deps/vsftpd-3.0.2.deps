@@ -1,0 +1,5 @@
+DEPEND="
+Linux-PAM-1.1
+attr-2.4
+libcap-2.22
+"

@@ -1,0 +1,3 @@
+DEPEND="
+numactl-2.0
+"

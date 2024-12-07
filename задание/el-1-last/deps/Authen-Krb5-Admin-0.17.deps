@@ -1,0 +1,6 @@
+DEPEND="
+perl-5.30.3
+krb5-1.11
+keyutils-1
+e2fsprogs-1.37
+"

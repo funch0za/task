@@ -1,0 +1,6 @@
+DEPEND="
+glib-2.62.4
+pcre2-10.40
+libffi-3.3
+itstool-2.0.2
+"

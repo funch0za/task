@@ -1,0 +1,6 @@
+DEPEND="
+giflib-5.0.2
+libjpeg-turbo-1.4.0
+libpng-1.6.17
+zlib-1.2.8
+"

@@ -1,0 +1,5 @@
+DEPEND="
+ncurses-5
+file-5
+zlib-1.2
+"

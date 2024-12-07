@@ -1,0 +1,10 @@
+DEPEND="
+libX11-1.6.2
+libXau-1.0.8
+libXdmcp-1.1.1
+libdrm-2.4.65
+libxcb-1.11
+mesa-21.3.9
+libglvnd-1.3.2
+xorgproto-2019.2
+"

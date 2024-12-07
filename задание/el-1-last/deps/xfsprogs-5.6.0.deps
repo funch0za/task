@@ -1,0 +1,6 @@
+DEPEND="
+util-linux-2.21
+attr-2.4
+readline-6.3
+ncurses-6.1
+"

@@ -1,0 +1,7 @@
+DEPEND="
+ocl-icd-2.2.12
+mesa-21.3.9
+libglvnd-1.3.2
+OpenCL-CLHPP-2.0.16
+OpenCL-Headers-2022.01.04
+"

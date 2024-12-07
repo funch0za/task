@@ -1,0 +1,11 @@
+DEPEND="
+libdrm-2.4.104
+xorgproto-2019.2
+pixman-0.36.0
+libpciaccess-0.13
+libxcb-1.9
+libxshmfence-1.1
+xfonts-utils-7.7.6
+libpthread-stubs-0.3
+mcst-img-gpu-llvm90-1.13.5878540
+"

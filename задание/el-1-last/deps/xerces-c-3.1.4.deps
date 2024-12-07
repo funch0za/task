@@ -1,0 +1,8 @@
+DEPEND="
+curl-7.29
+elfutils-0.153
+icu-58.2
+openssl-1.1
+openldap-2.4
+zlib-1.2
+"

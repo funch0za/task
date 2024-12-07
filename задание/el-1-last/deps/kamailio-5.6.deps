@@ -1,0 +1,12 @@
+DEPEND="
+glibc-2.29
+lcc-libs
+ncurses-6.1
+openssl-1.1.1n
+readline-6.3
+postgresql16
+pcre-8.44
+mysql-8
+zstd
+zlib-1.2.11
+"

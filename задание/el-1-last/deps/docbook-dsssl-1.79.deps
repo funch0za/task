@@ -1,0 +1,7 @@
+DEPEND="
+openjade-1.4
+docbook-3.1
+docbook-xml-4.5
+perl-5.30.3
+sgml-base-1.26
+"

@@ -1,0 +1,5 @@
+DEPEND="
+eigen-3
+postgresql16
+flex-2
+"

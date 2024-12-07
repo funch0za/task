@@ -1,0 +1,6 @@
+DEPEND="
+elfutils-0.184
+openssl-1.1.1n
+python3-3.11.3
+openldap-2.4.48
+"

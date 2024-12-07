@@ -1,0 +1,13 @@
+DEPEND="
+libICE-1.0.9
+libSM-1.2.2
+libX11-1.6.4
+libXau-1.0.8
+libXdmcp-1.1.2
+libXt-1.1.5
+libdnet-1.11
+libxcb-1.12
+util-linux-2.33.2
+xorgproto-2019.2
+zlib-1.2.8
+"

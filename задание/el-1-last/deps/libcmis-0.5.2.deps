@@ -1,0 +1,12 @@
+DEPEND="
+curl-7.58
+libxml2-2.9
+cppunit-1.12
+boost-1.59
+openldap-2.4
+openssl-1.1
+zlib-1.2
+xz-5.0
+libpsl-0.21.0
+cyrus-sasl-2.1
+"

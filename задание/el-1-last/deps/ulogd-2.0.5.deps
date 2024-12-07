@@ -1,0 +1,13 @@
+DEPEND="
+libmnl-1.0
+libnfnetlink-1.0
+libnetfilter-acct-1.0
+libnetfilter-conntrack-1.0
+libnetfilter-log-1.0
+libpcap-1.3
+postgresql16
+mysql-8
+zlib-1.2.11
+openssl-1.1
+zstd-1
+"

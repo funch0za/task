@@ -1,0 +1,13 @@
+DEPEND="
+Linux-PAM-1.1
+glib-2.62
+pcre2-10.40
+gtk-doc-1.26
+libffi-3.0
+libtool-2.4
+libxml2-2.9
+libxslt-1.1
+xmlsec1-1.2
+xz-5.2
+zlib-1.2
+"

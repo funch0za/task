@@ -1,0 +1,4 @@
+DEPEND="
+ncurses-6.1
+perl-5.30.3
+"

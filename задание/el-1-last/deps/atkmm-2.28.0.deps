@@ -1,0 +1,8 @@
+DEPEND="
+at-spi2-core-2.46.0
+glib-2.44
+pcre2-10.40
+glibmm-2.36
+libffi-3.2
+libsigc++-2.2
+"

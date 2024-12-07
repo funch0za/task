@@ -1,0 +1,3 @@
+DEPEND="
+curl-7
+"

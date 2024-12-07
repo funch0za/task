@@ -1,0 +1,9 @@
+DEPEND="
+glib-2.44
+libffi-3.2
+libxml2-2.9
+pcre2-10.40
+xz-5.0
+zlib-1.2
+util-linux-2.21
+"

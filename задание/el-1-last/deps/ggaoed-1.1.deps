@@ -1,0 +1,7 @@
+DEPEND="
+libaio-0.3
+glib-2.62
+pcre2-10.40
+util-linux-2.33
+libatomic-ops-7.4
+"

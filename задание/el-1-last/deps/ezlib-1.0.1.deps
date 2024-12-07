@@ -1,0 +1,4 @@
+DEPEND="
+erlang-18
+zlib-1.2
+"

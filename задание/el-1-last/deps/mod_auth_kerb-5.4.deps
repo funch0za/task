@@ -1,0 +1,10 @@
+DEPEND="
+krb5-1.11.6
+keyutils-1
+e2fsprogs-1.42
+apr-1.7.0
+apr-util-1.6.1
+httpd-2.4.12.1
+perl-5.30.3
+libtool-2.4
+"

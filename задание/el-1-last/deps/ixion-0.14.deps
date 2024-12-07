@@ -1,0 +1,5 @@
+DEPEND="
+boost-1.59
+mdds-1.4
+python3-3.11.3
+"

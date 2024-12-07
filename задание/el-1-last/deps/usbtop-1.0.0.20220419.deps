@@ -1,0 +1,5 @@
+DEPEND="
+glibc
+libpcap
+boost-1.67
+"

@@ -1,0 +1,8 @@
+DEPEND="
+glib-2.44
+pcre2-10.40
+zlib-1.2
+util-linux-2.21
+gobject-introspection-1.37
+libffi-3.2
+"

@@ -1,0 +1,17 @@
+DEPEND="
+libssh2-1.2.5
+Linux-PAM-1.1
+glib-2.44
+pcre2-10.40
+gpm-1.20
+libICE-1.0
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libxcb-1.9
+slang-2.2
+xorgproto-2019.2
+openssl-1.1
+zlib-1.2.8
+e2fsprogs-1.43.1
+"

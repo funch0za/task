@@ -1,0 +1,6 @@
+DEPEND="
+ncurses-6.4
+libcap-2.69
+libnl-3.4.0
+lm_sensors-3.6.0
+"

@@ -1,0 +1,4 @@
+DEPEND="
+libmikmod-3.3
+ncurses-6.1
+"

@@ -1,0 +1,7 @@
+DEPEND="
+expat-2.1.0
+libffi-3.3
+libxml2-2.9.7
+xz-5.2.4
+zlib-1.2.8
+"

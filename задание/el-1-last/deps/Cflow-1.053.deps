@@ -1,0 +1,5 @@
+DEPEND="
+flow-tools-0.68.5
+perl-5.30.3
+zlib-1.2
+"

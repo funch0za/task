@@ -1,0 +1,9 @@
+DEPEND="
+glib-2
+pcre2-10.40
+libffi-3.2
+util-linux-2
+zlib-1.2
+json-c-0.12
+gobject-introspection-1.42
+"

@@ -1,0 +1,12 @@
+DEPEND="
+glib-2.72.0
+pcre2-10.40
+gobject-introspection-1.58.3
+libffi-3.3
+libiconv-1.13.1
+util-linux-2.33.2
+exiv2-0.25
+expat-2.1.0
+python3-3.11.3
+zlib-1.2.8
+"

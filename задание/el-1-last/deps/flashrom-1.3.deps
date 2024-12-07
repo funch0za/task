@@ -1,0 +1,6 @@
+DEPEND="
+eudev-3.2
+libusb-1.0.9
+pciutils-3.3
+zlib-1.2
+"

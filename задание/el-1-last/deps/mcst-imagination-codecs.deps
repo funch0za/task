@@ -1,0 +1,11 @@
+DEPEND="
+zlib-1.2.8
+libxml2-2.9.2
+libffi-3.2
+glib-2
+pcre2-10.40
+gstreamer-1.18.4
+elfutils-0.184
+gst-plugins-base-1.18.4
+xz-5.2.4
+"

@@ -1,0 +1,5 @@
+DEPEND="
+perl-5.30.3
+sgml-base-1.26
+xml-core-0.12
+"

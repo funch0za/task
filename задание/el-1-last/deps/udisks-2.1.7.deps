@@ -1,0 +1,14 @@
+DEPEND="
+acl-2.2
+attr-2.4
+expat-2.1
+glib-2.44
+pcre2-10.40
+libatasmart-0.19
+libffi-3.2
+policykit-1-0.105
+eudev-3.2.8
+libgudev-232
+util-linux-2.21
+zlib-1.2
+"

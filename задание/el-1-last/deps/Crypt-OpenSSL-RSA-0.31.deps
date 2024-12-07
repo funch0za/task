@@ -1,0 +1,5 @@
+DEPEND="
+openssl-1.1
+Crypt-OpenSSL-Guess-0.11
+perl-5.30.3
+"

@@ -1,0 +1,4 @@
+DEPEND="
+SuiteSparse-5.10.1
+flex-2.5
+"

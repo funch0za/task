@@ -1,0 +1,4 @@
+DEPEND="
+alsa-lib-1.0
+audiofile-0.3
+"

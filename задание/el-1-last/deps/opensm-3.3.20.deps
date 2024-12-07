@@ -1,0 +1,3 @@
+DEPEND="
+rdma-core-50.0
+"

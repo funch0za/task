@@ -1,0 +1,7 @@
+DEPEND="
+e2fsprogs-1.42
+expat-2.1
+krb5-1.11
+openssl-1.1
+zlib-1.2
+"

@@ -1,0 +1,14 @@
+DEPEND="
+libICE-1.0
+libSM-1.2
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libXext-1.3
+libXt-1.1
+libXv-1.0
+libxcb-1.9
+popt-1.7
+util-linux-2.21
+xorgproto-2019.2
+"

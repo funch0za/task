@@ -1,0 +1,9 @@
+DEPEND="
+boost-1.67
+onetbb-2020.3
+expat-2.1
+bzip2-1.0
+lua5.3-5.3
+zlib-1.2
+icu-58.2
+"

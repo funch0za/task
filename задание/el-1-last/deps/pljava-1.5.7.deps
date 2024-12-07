@@ -1,0 +1,6 @@
+DEPEND="
+openjdk8-1.8.0
+postgresql16
+openssl-1.1
+krb5-1.16.4
+"

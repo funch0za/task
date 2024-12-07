@@ -1,0 +1,4 @@
+DEPEND="
+util-macros-1.17
+xorg-sgml-doctools-1.11
+"

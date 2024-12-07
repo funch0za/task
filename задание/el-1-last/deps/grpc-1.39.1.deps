@@ -1,0 +1,8 @@
+DEPEND="
+zlib-1.2
+openssl-1.1
+protobuf-3.12
+python3-3.11.3
+c-ares-1.17
+abseil-cpp-20230125
+"

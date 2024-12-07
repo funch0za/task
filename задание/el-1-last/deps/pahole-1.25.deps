@@ -1,0 +1,7 @@
+DEPEND="
+dwarfutils-20201201
+elfutils-0.184
+zlib-1
+xz-5
+bzip2-1
+"

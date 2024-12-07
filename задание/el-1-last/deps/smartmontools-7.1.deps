@@ -1,0 +1,3 @@
+DEPEND="
+libcap-ng-0.7
+"

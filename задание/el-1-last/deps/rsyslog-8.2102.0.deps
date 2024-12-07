@@ -1,0 +1,9 @@
+DEPEND="
+curl-7.70.0
+libestr-0.1.9
+libfastjson-0.99.9
+libgcrypt-1.8.3
+libgpg-error-1.37
+util-linux-2.33.2
+zlib-1.2.8
+"

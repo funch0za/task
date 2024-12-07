@@ -1,0 +1,5 @@
+DEPEND="
+c-ares-1.9
+libosip2-5.1
+openssl-1.1
+"

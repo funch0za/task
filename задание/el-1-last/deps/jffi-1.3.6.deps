@@ -1,0 +1,4 @@
+DEPEND="
+openjdk8-1.8.0
+libffi-3.2.1
+"

@@ -1,0 +1,3 @@
+DEPEND="
+libmnl-1.0
+"

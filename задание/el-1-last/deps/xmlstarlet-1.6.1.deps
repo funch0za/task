@@ -1,0 +1,8 @@
+DEPEND="
+libxml2-2.9
+libxslt-1.1
+xz-5.0
+zlib-1.2
+libgpg-error-1.20
+libgcrypt-1.6.5
+"

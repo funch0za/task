@@ -1,0 +1,6 @@
+DEPEND="
+libpthread-stubs-0.3
+zlib-1.2.8
+xz-5.0.4
+lz4-1.7.5
+"

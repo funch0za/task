@@ -1,0 +1,5 @@
+DEPEND="
+lcc-libs
+libglvnd-1.0
+mesa-21.3.9
+"

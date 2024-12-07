@@ -1,0 +1,12 @@
+DEPEND="
+glib-2.73.3
+libffi-3.3
+libjpeg-turbo-2.0.6
+libpng-1.6.37
+pcre2-10.40
+shared-mime-info-2.0
+tiff-4.2.0
+util-linux-2.33.2
+zlib-1.2.8
+gobject-introspection-1.58
+"

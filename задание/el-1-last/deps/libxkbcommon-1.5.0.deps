@@ -1,0 +1,15 @@
+DEPEND="
+zlib-1.2.8
+xz-5.2.4
+libffi-3.3
+libxml2-2.9.7
+python3-libxml2-2.9.7
+xorgproto-2021
+libXau-1.0.9
+libXdmcp-1.1.2
+libxcb-1.14
+wayland-1.21.0
+xkeyboard-config-2.29
+wayland-protocols-1.26
+libiconv-1.17
+"

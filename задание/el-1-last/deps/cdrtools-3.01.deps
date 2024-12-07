@@ -1,0 +1,6 @@
+DEPEND="
+acl-2.2
+alsa-lib-1.0
+attr-2.4
+e2fsprogs-1.42
+"

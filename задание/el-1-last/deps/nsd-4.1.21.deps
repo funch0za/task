@@ -1,0 +1,4 @@
+DEPEND="
+libevent-2.0
+openssl-1.1
+"

@@ -1,0 +1,10 @@
+DEPEND="
+gmp-4.3.2
+libtool-2.4
+ncurses-6.1
+readline-6.2
+libunistring-0.9
+libffi-3.2
+gc-8
+libatomic-ops-7.4
+"

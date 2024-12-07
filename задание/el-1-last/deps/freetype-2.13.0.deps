@@ -1,0 +1,5 @@
+DEPEND="
+libpng-1.6.37
+zlib-1.2.8
+brotli-1.0.9
+"

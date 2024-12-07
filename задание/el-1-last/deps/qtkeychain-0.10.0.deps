@@ -1,0 +1,10 @@
+DEPEND="
+libsecret-0.19.1
+glib-2.62.4
+pcre2-10.40
+icu-58.2
+qt5-5.12
+zlib-1.2
+dbus-1.12
+zstd-1.4.4
+"

@@ -1,0 +1,6 @@
+DEPEND="
+attr-2.4
+libcap-2.22
+libedit-20140620-3.1
+nss-3.15
+"

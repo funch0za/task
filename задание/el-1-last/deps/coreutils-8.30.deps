@@ -1,0 +1,5 @@
+DEPEND="
+acl-2.2.52
+attr-2.4
+gmp-6.0
+"

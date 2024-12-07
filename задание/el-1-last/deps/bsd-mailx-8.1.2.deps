@@ -1,0 +1,3 @@
+DEPEND="
+libbsd-0.7
+liblockfile-1"

@@ -1,0 +1,5 @@
+DEPEND="
+elfutils-0.153
+dwarfutils
+ncurses-6.1
+"

@@ -1,0 +1,16 @@
+DEPEND="
+bzip2-1.0
+db-4.8
+eudev-3.2
+gmp-6.1
+gnutls-3.6
+libgpg-error-1.46
+libgcrypt-1.8
+libtasn1-4.10
+libunistring-0.9
+lz4-1.9
+nettle-3.5
+xxHash-0.8
+xz-5.0
+zlib-1.2
+"

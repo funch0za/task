@@ -1,0 +1,14 @@
+init.src
+external.src
+bootstrap.src
+early.src
+xorg.src
+x86driver.src
+env.src
+libs.src
+apps.src
+xfce4-goodies.src
+perl-list.src
+dist.src
+apps_demos.src
+graph.src

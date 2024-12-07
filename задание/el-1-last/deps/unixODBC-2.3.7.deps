@@ -1,0 +1,6 @@
+DEPEND="
+flex-2.5
+libtool-2.4
+ncurses-6.1
+readline-6.2
+"

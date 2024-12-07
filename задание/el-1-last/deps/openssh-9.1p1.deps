@@ -1,0 +1,6 @@
+DEPEND="
+Linux-PAM-1.1
+libcap-2.22
+openssl-1.1
+zlib-1.2
+"

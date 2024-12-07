@@ -1,0 +1,5 @@
+DEPEND="
+expat-2.5.0
+minizip-1.1
+zlib-1.2.8
+"

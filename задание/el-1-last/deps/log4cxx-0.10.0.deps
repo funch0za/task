@@ -1,0 +1,13 @@
+DEPEND="
+cyrus-sasl-2.1
+openssl-1.1
+openldap-2.4
+gdbm-1.9
+apr-1.7.0
+apr-util-1.6.1
+httpd-2.4
+libxml2-2.9
+expat-2.1
+unixODBC-2.3
+util-linux-2.21
+"

@@ -1,0 +1,12 @@
+DEPEND="
+lcc-libs
+zlib-1.2.13
+xz-5.2.4
+libffi-3.3
+elfutils-0.184
+pcre2-10.40
+glib-2.73.3
+gstreamer-1.22.5
+ffmpeg-4.4
+gst-plugins-base-1.22.5
+"

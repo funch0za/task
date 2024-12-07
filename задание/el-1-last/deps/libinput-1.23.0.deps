@@ -1,0 +1,7 @@
+DEPEND="
+eudev-3.2.8
+libcap-2.31
+check-0.14.0
+mtdev-1.1.6
+libevdev-1.13.0
+"

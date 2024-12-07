@@ -1,0 +1,10 @@
+DEPEND="
+lccrt
+zlib-1.2.8
+xz-5.2.4
+libxml2-2.9.7
+ncurses-6.1
+flex-2.6.4
+llvm13-13.0.1
+python3-3.11.3
+"

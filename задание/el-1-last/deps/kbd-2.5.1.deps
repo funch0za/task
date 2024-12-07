@@ -1,0 +1,4 @@
+DEPEND="
+flex-2.6.4
+Linux-PAM-1.1.6
+"

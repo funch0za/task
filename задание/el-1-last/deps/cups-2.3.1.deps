@@ -1,0 +1,14 @@
+DEPEND="
+acl-2.2
+attr-2.4
+dbus-1.6
+e2fsprogs-1.42
+gmp-6.1
+gnutls-3.6
+krb5-1.11
+keyutils-1
+lcc-libs
+nettle-3.5
+eudev-3.2
+zlib-1.2
+"

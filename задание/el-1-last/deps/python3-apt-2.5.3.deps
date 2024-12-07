@@ -1,0 +1,6 @@
+DEPEND="
+python3-3.11.3
+gnupg-2.2.41
+apt-2.2.4
+zlib-1.2
+"

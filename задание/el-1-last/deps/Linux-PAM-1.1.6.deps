@@ -1,0 +1,6 @@
+DEPEND="
+cracklib-2.9
+flex-2.5
+libtirpc-0.2
+zlib-1.2
+"

@@ -1,0 +1,6 @@
+DEPEND="
+ncurses-6.1
+readline-6.2
+tcl-8.6
+zlib-1.2
+"

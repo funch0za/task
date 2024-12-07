@@ -1,0 +1,4 @@
+DEPEND="
+python3-3.11.3
+python3-text-unidecode-1.3
+"

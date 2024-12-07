@@ -1,0 +1,3 @@
+DEPEND="
+spirv-headers-1.5.4+rt3
+"

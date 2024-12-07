@@ -1,0 +1,4 @@
+DEPEND="
+glib-2.44
+pcre2-10.40
+"

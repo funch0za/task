@@ -1,0 +1,12 @@
+DEPEND="
+gc-7
+gmp-6.1
+guile-2.0
+libffi-3.2
+libtool-2.4
+libxml2-2.9
+libunistring-0.9
+xz-5.0
+zlib-1.2
+libatomic-ops-7.4
+"

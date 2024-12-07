@@ -1,0 +1,3 @@
+DEPEND="
+libraw1394-2.1
+"

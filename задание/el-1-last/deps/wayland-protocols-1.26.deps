@@ -1,0 +1,4 @@
+DEPEND="
+libffi-3.3
+wayland-1.21.0
+"

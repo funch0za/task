@@ -1,0 +1,7 @@
+DEPEND="
+esip-1.0
+fast_xml-1.1
+lager-3.0
+p1_utils-1.0
+xmpp-1.4
+"

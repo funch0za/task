@@ -1,0 +1,5 @@
+DEPEND="
+boost-1.59
+cppunit-1.12.1
+zlib-1.2.8
+"

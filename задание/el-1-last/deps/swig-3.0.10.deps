@@ -1,0 +1,9 @@
+DEPEND="
+lcc-libs
+boost-1.59.0
+guile-1.8.7
+pcre-8.39
+php-5.6.21
+python3-3.11.3
+zlib-1.2.8
+"

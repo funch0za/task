@@ -1,0 +1,7 @@
+DEPEND="
+libtool-2.4
+openssl-1.1
+db-4.8
+icu-58.2
+perl-5.30.3
+"

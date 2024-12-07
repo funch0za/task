@@ -1,0 +1,4 @@
+DEPEND="
+openssl-1.1
+libcap-ng-0.7
+"

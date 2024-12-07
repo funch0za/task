@@ -1,0 +1,4 @@
+DEPEND="
+libnl-3.4.0
+rdma-core-50.0
+"

@@ -1,0 +1,4 @@
+DEPEND="
+<SVT-HEVC-1.5.0
+numactl-2.0.13
+"

@@ -1,0 +1,11 @@
+DEPEND="
+libdrm-2.4.75
+zlib-1.2.8
+libpciaccess-0.13.2
+libpthread-stubs-0.4
+xorgproto-2019.2
+libXau-1.0
+libXdmcp-1.1
+libxcb-1.11
+ncurses-5.9
+"

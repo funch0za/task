@@ -1,0 +1,5 @@
+DEPEND="
+db-4.8
+pcre-8.38
+zlib-1.2
+"

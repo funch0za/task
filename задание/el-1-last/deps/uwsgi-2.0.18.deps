@@ -1,0 +1,8 @@
+DEPEND="
+libcap-2.22
+expat-2.1
+openssl-1.1
+python-2.7
+util-linux-2.33.2
+zlib-1.2.8
+"

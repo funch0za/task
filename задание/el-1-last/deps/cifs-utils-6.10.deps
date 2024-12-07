@@ -1,0 +1,10 @@
+DEPEND="
+keyutils-1.2
+Linux-PAM-1.1.6
+libcap-ng-0.7.4
+krb5-1.11.6
+keyutils-1
+e2fsprogs-1.42.12
+samba-4.2
+talloc-2.1.8
+"

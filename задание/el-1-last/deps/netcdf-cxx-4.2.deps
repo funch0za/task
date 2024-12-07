@@ -1,0 +1,6 @@
+DEPEND="
+curl-7.58
+zlib-1.2
+hdf5-1.10
+netcdf-c-4.6
+"

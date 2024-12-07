@@ -1,0 +1,5 @@
+DEPEND="
+OpenCL-Headers-2022.01.04
+lcc-libs
+ocl-icd-2.2.14
+"

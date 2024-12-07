@@ -1,0 +1,4 @@
+DEPEND="
+libcap-2.22
+openjdk8
+"

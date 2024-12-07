@@ -1,0 +1,3 @@
+DEPEND="
+libtirpc-1.1
+"

@@ -1,0 +1,7 @@
+DEPEND="
+glib-2.44
+pcre2-10.40
+mysql-8
+postgresql16
+flex-2.6
+"

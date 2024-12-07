@@ -1,0 +1,12 @@
+DEPEND="
+fontconfig-2.9
+freetype-2.4
+libX11-1.5
+libXft-2.3.2
+libXrender-0.9.8
+libjpeg-turbo-1.4.0
+libpng-1.6
+perl-5.30.3
+xorgproto-2019.2
+zlib-1.2.8
+"

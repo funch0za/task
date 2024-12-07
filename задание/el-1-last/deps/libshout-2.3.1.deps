@@ -1,0 +1,5 @@
+DEPEND="
+libogg-1.3
+libvorbis-1.3
+speex-1.2rc1
+"

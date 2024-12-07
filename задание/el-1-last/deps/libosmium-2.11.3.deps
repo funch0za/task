@@ -1,0 +1,9 @@
+DEPEND="
+ncurses-6.1
+zlib-1.2
+boost-1.59
+bzip2-1.0
+expat-2.1
+proj-4.9
+geos-3.5
+"

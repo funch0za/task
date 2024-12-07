@@ -1,0 +1,12 @@
+DEPEND="
+attr-2.4
+libcap-2.22
+openssl-1.1
+libevent-2.0
+ncurses-6.1
+net-snmp-5.7.2
+pcre-8
+pciutils-3.3
+zlib-1.2
+perl-5.30.3
+"

@@ -1,0 +1,11 @@
+DEPEND="
+librevenge-0.0.4
+libxml2-2.9.7
+zlib-1.2.8
+liblangtag-0.6.3
+boost-1.59
+glm-0.9.9.5
+mdds-1.4
+cppunit-1.14
+xz-5.0.4
+"

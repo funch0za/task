@@ -1,0 +1,13 @@
+DEPEND="
+attr-2.4
+gmp-6.0.0
+lvm2-2.02.95
+mpc-1.0.2
+mpfr-3.1.2
+ncurses-6.1
+pcre-8.39
+readline-6.3
+eudev-3.2.8
+xz-5.0
+zlib-1.2
+"

@@ -1,0 +1,13 @@
+DEPEND="
+bzip2-1.0
+expat-2.1
+gpm-1.20
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libidn-1.29
+openssl-1.1
+libxcb-1.9
+xorgproto-2019.2
+zlib-1.2
+"

@@ -1,0 +1,8 @@
+DEPEND="
+ncurses-6.4
+readline-8.2
+util-linux-2.33
+libaio-0.3.110
+dbus-1.14.6
+python3-3.11.3
+"

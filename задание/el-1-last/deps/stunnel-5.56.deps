@@ -1,0 +1,5 @@
+DEPEND="
+openssl-1.1
+tcp-wrappers-7.6
+zlib-1.2
+"

@@ -1,0 +1,12 @@
+DEPEND="
+flex-2.5
+kmod-13
+libxml2-2.9
+lttng-ust-2.6
+popt-1.7
+userspace-rcu-0.8
+numactl-2.0
+util-linux-2.21
+xz-5.0
+zlib-1.2
+"

@@ -1,0 +1,7 @@
+DEPEND="
+openssl-1.1.1d
+tcp-wrappers-7.6
+libbsd-0.9.1
+readline-6.3
+ncurses-6.1
+"

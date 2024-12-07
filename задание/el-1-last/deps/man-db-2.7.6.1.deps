@@ -1,0 +1,7 @@
+DEPEND="
+less-551
+flex-2.5
+gdbm-1.9
+libpipeline-1.4
+zlib-1.2
+"

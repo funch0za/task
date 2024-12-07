@@ -1,0 +1,8 @@
+DEPEND="
+bzip2-1.0
+brotli-1.0.9
+freetype-2.4
+libpng-1.2
+uuid-1.6
+zlib-1.2
+"

@@ -1,0 +1,5 @@
+DEPEND="
+zlib-1.2
+pkg-config-0.29
+elfutils-0.184
+"

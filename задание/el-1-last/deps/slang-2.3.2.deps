@@ -1,0 +1,12 @@
+DEPEND="
+libICE-1.0
+libX11-1.5
+libXau-1.0
+libXdmcp-1.1
+libpng-1.2
+libxcb-1.9
+pcre-8.32
+xorgproto-2019.2
+zlib-1.2
+libiconv-1.17
+"

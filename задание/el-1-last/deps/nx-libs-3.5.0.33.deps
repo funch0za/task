@@ -1,0 +1,11 @@
+DEPEND="
+libICE-1.0
+libX11-1.5
+xorgproto-2019.2
+libpng-1.2
+libjpeg-turbo-1.4
+zlib-1.2
+libfontenc-1.1.2
+libxml2-2.9
+xz-5.0
+"

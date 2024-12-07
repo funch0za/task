@@ -1,0 +1,11 @@
+DEPEND="
+glib-2.44
+pcre2-10.40
+libffi-3.2
+libmbim-1.10
+libqmi-1.10
+eudev-3.2.8
+libgudev-232
+zlib-1.2
+util-linux-2.21
+"

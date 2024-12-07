@@ -1,0 +1,4 @@
+DEPEND="
+alsa-lib-1.2.11
+ncurses-6.1
+"
